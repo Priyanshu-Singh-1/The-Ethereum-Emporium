@@ -12,6 +12,7 @@ This is a Web3.0 based blockchain market where the user can buy and sell the pro
         a. In first terminal - 
            $  npm start
         b. In Second Terminal - 
+           Before writing the below command, install truffle in your vs code.
            $ truffle develop
     6. The webpage will appear on your browser, connect the account from the local server(Ganache)
 
