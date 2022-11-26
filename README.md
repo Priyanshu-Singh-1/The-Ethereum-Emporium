@@ -1,6 +1,6 @@
 # Silicon Market Web 3.0
 
-This is a Web3.0 based blockchain market where the user can buy and sell the products to each other✨
+This is a Web3.0 based blockchain market where the user can buy and sell the products to each other✨. This application runs on the ether network.
 
 # Instrution to operate:
 
